@@ -1786,7 +1786,7 @@ function getSign(functionId, body) {
     })
   })
 }
-function TotalBean() {
+/*function TotalBean() {
 	return new Promise(async resolve => {
 		const options = {
 			url: "https://me-api.jd.com/user_new/info/GetJDUserInfoUnion",
